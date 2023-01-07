@@ -1,0 +1,13 @@
+/* 
+ Localizable.strings
+ BabyGiraffe
+ 
+ Created by salma alorifi on 16/06/1444 AH.
+ 
+ */
+
+"Start" = "أبدا";
+"Help Giraffe to choose the correct color" = "ساعد الزرافة في اختيار اللون الصحيح";
+"Congratulations, you won! 🎉" = "🎉 !مبروك , لقد فزت";
+"Close" = "يغلق";
+"Number of attemps:" = " :عدد المحاولات ";
