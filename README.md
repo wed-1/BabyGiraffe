@@ -1,6 +1,9 @@
 # BabyGiraffe
 ___
-___
+
+
+
+
 
 
 ## How did we come up with this idea :
@@ -13,23 +16,33 @@ ___
 
 ## Our main challenge:
 ### was how can we create a game that helps children learn colors in a fun way .
-___
+
+
+
+
 
 ## Our problem Statement :
 ### after researching we notice that Children always love games. With the advancement of technology, there are few games that integrate learning and play at the same time. for example one of the many children's games that we notice by researching that they like this type of game :
 
 
-___
+
+
+
 
 ## Our Solution Concept : 
 so we came up with a solution for a small children's game that combines play and learning together in a simple way to help motivate them to learn new colors so that can enhance their developing.
 
-___
+
+
+
 
 
 ## Technologies & Tools:
 ### we create our game using SwiftUI with Xcode, and we create our design using Sketch .
-___
+
+
+
+
 
 
 
@@ -37,7 +50,8 @@ ___
 https://sketch.com/s/8ca935b2-e158-42f0-b21d-5147086d3935
 
 
-___
+
+
 
 ## Demo for our game:
 
@@ -45,7 +59,10 @@ ___
 
 ### the second demo is for accessibility as you can see we add the Reduce Motion accessibility into the game :
 
-___
+
+
+
+
 
 
 ## Challenge Summary:
