@@ -55,7 +55,7 @@ https://sketch.com/s/8ca935b2-e158-42f0-b21d-5147086d3935
 
 ## Demo for our game:
 
-### the first demo is for localization as you can see the game supports both the Arabic and English languages
+### the first demo is for localization as you can see the game supports both the Arabic and English languages:
 
 ### the second demo is for accessibility as you can see we add the Reduce Motion accessibility into the game :
 
