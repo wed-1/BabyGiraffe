@@ -6,6 +6,7 @@ ___
 
 
 
+
 ## How did we come up with this idea :
 ### we wanted to create a game that is easy for children to play and learn from it.
 
@@ -57,9 +58,11 @@ https://sketch.com/s/8ca935b2-e158-42f0-b21d-5147086d3935
 
 ### the first demo is for localization as you can see the game supports both the Arabic and English languages:
 
+
+
 ### the second demo is for accessibility as you can see we add the Reduce Motion accessibility into the game :
 
-
+https://drive.google.com/drive/folders/1AQYWdiX6f6K_L7_FnhO4QCAx0Nw29mHn?usp=sharing
 
 
 
