@@ -5,7 +5,11 @@ ___
 
 ## How did we come up with this idea :
 ### we wanted to create a game that is easy for children to play and learn from it.
-___
+
+
+
+
+
 
 ## Our main challenge:
 ### was how can we create a game that helps children learn colors in a fun way .
