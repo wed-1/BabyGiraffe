@@ -38,7 +38,7 @@ In the beginning, when we started creating the mini-educational game for childre
 Team:
 
 <a href="http://linkedin.com/in/salma-alorifi-0544801a6/"> Salma Alorifi </a> -
-<a> Wadiah Albuhairi </a>
+<a> "https://www.linkedin.com/in/wadiah-336306181?original_referer=" </a>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
