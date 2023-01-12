@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <div>
 
-#<h3><img align="left" width="100" height="100" src="App_Icon.png"> <br/> BabyGiraffe <br/>
+# <h3><img align="left" width="100" height="100" src="App_Icon.png"> <br/> BabyGiraffe <br/>
 <a href="">Test-Flight</a> <br/> <br/> </h3>
 </div>
 
@@ -25,7 +25,7 @@ We create our game using ![SwiftUI][SwiftUI-img] ![Sketch][Sketch-img]
 Here is a link for the design :
 https://sketch.com/s/8ca935b2-e158-42f0-b21d-5147086d3935
 
-##Demo for our game:
+## Demo for our game:
 
 The first demo is for localization feature as you can see the game supports both the Arabic and English languages :
 https://drive.google.com/drive/folders/1a4NDh2UKYR-xCf_4HVKu5qcWw_KijeLY?usp=sharing
@@ -33,7 +33,7 @@ https://drive.google.com/drive/folders/1a4NDh2UKYR-xCf_4HVKu5qcWw_KijeLY?usp=sha
 The second demo is for accessibility feature as you can see we add the "Reduce Motion" accessibility into the game :
 https://drive.google.com/drive/folders/1AQYWdiX6f6K_L7_FnhO4QCAx0Nw29mHn?usp=sharing
 
-##Challenge Summary:
+## Challenge Summary:
 
 In the beginning, when we started creating the mini-educational game for children, we tried to benefit the largest number of children, so we added accessibility, we had difficulty with Any feature that is appropriate for the application, so we decided to reduce motion, applied it, and added localization in to benefit many children.
 Team:
