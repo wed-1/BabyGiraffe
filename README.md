@@ -1,5 +1,5 @@
 <!-- PROJECT LOGO -->
-<div>
+# <div>
 
 # <h3><img align="left" width="100" height="100" src="App_Icon.png"> <br/> BabyGiraffe <br/>
 <a href="">Test-Flight</a> <br/> <br/> </h3>
