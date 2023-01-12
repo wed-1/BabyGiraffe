@@ -43,6 +43,9 @@ Team:
 <!-- MARKDOWN LINKS & IMAGES -->
 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+<!-- MARKDOWN LINKS & IMAGES -->
+
 keyboard_arrow_up
 
 Accessibility Demo - Google Drive
