@@ -16,7 +16,7 @@ Problem Statement :
 After researching we notice that children always love to play games especially with the advancement of technology, there are few games that integrate learning and play at the same time , for example one of the many children's games that we notice by researching that they like to play this type of game :
 <h3 align="left"><img src="https://user-images.githubusercontent.com/116716645/211879623-6e4b4cd7-231d-4c73-9633-9dcd19929bbb.png" width="200" height="200"></h3>
 
-##Solution Concept :
+## Solution Concept :
 
 So we came up with a solution for a small children's game that combines play and learning together in a simple way to help motivate them to learn new colors so that can enhance their developing.
 Technologies & Tools:
