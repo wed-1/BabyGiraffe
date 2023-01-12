@@ -38,10 +38,10 @@ In the beginning, when we started creating the mini-educational game for childre
 Team:
 
 <a href="http://linkedin.com/in/salma-alorifi-0544801a6/"> Salma Alorifi </a> -
-<a> "https://www.linkedin.com/in/wadiah-336306181?original_referer=" </a>
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
-
+<a href="https://www.linkedin.com/in/wadiah-336306181?original_referer="> Wadiah Albuhairi </a> -
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 <!-- MARKDOWN LINKS & IMAGES -->
